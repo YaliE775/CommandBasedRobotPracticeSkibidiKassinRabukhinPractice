@@ -13,4 +13,9 @@ public class Constants {
         public static int DRIVER_PORT = 0;
 
     }
+
+    public static class BeamBreakerConstants {
+        public static int BREAKER_PORT = 1;
+
+    }
 }
